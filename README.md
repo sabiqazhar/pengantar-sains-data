@@ -5,6 +5,7 @@
 - Uts pengantar data sains, prediksi stock google (september 2021)
 
 ## Deskripsi UTS
+Sabiq azhar 15119797 3KA18
 > Program ini menguji prediksi harga saham GOOG (Google) menggunakan algoritma machine learning
 > ![image](https://user-images.githubusercontent.com/60849155/171325229-88a7ec9c-060c-4740-ba47-0242c4e2b896.png)
 >  dapat dilihat dari hasil output diatas kernel RBF pada SVR (Support Vector Regression) memiliki akurasi yang hampir mendekati, dari komparasi antara ketiga model RBF, Linear, Polinomial. Saat divisualisasikan model RBF juga menunjukan hampir setiap garisnya mempresentasikan titik-titik original data.
